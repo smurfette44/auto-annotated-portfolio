@@ -1,4 +1,6 @@
 ---
+<!-- OSINT Challenge Flag: HackspaceBethnalGreen -->
+
 type: PageLayout
 title: Home
 colors: colors-a
